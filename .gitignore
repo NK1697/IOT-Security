@@ -1,0 +1,9 @@
+sign_firmware
+secure_boot
+*.o
+
+device_data/boot_state.txt
+
+keys/vendor_private.pem
+
+.DS_Store
